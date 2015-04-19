@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">application4</string>
+
+    <string name="hello_friends">Hello friends</string>
+    <string name="apakabar">apa kabar teman-teman</string>
+    <string name="pie_kabare">Pie Kabare</string>
+    <string name="tombol_terjemahan">Terjemahan</string>
+    <string name="tombol_translate">Translate</string>
+    <string name="tombol_ubah">Ubah</string>
+    <string name="action_settings">Settings</string>
+</resources>
